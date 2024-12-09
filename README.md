@@ -6,6 +6,7 @@ Interactive gameplay with meaningful choices.
 Five chapters with distinct storylines and outcomes.
 Replayable with multiple paths and endings.
 Chapters Overview
+
 Chapter 1: Discovery and Action
 Nova learns to control their powers and stops a robbery, setting up the game mechanics.
 
